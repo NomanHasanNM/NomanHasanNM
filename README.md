@@ -7,8 +7,8 @@ My favorite pastime is coding and solving problem with online and also taking pa
 
 Skills: C | C++| JavaScript | Reacts | jQuery | Bootstrap | MySQL | DBMS| Operating System Lab| Computer Graphics Lab| Data Mining and Machine Learning.
 
-- 🔭 I’m currently working on Lab Associate, Department of CSE In Daffodil International University.  
-- 🌱 I’m currently learning JavaScript  & React & Node.js.  
+- 🔭 I’m currently working on Jr. Software Engineer, at Desh Universal pvt ltd.
+- 🌱 I’m currently learning JavaScript  & React & Angular & Node.js.  
 - 👯 I’m looking to collaborate on on Sprain Rain Pvt Ltd.  
 - 🤔 I’m looking for help with get a better job.  
 - 💬 Ask me about Software Development . 
